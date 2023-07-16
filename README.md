@@ -1,4 +1,4 @@
-![Screenshot (103)](https://github.com/Yazdan-Ghanavati/Human-Pose-Tracking-Package/assets/137007531/eb7a4723-0495-41de-98c6-90f1214bdf1a)# Human-Pose-Tracking-Package
+# Human-Pose-Tracking-Package
 
 This is a Python-based applications specifcally developed for Windows OS.
 So basically, what this software does is to convert a set of particular actions which user will perform in front of the webcam, into a list of selected keys on keyboard or mouse. HPT Package, offers an alternative method of exercising for overweight individuals or those with muscle-related issues. This way the user will be able to experience a real immersion experience in a virtual space.
@@ -81,6 +81,6 @@ User can easily close the webcam output by pressing "Q" button manually.
 * Mediapipe 0.8.3
 Now connecting the camera with this module, required a third library which was OpenCV. This library is basically developed for Computer Vision purposes and would allow the user to perform Image manipulations in their projects.
 
-
+for a licence code or more information, feel free to cantact me via email.
 
 
