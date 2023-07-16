@@ -11,6 +11,7 @@ So basically, what this software does is to convert a set of particular actions 
 This part is consisted of two forms: Login, SignUp which is directly connected to a SQL database and will analyze the user's data before start of the application.
 
 This is the Sign up page:
+
 ![Screenshot (92)](https://github.com/Yazdan-Ghanavati/Human-Pose-Tracking-Package/assets/137007531/0a57528e-9f8c-4feb-934c-d2ae3052abe5)
 
 
